@@ -1,0 +1,4 @@
+- This folder has various projects in which I have practiced async operations in react and redux
+- To view the projects switch to a particular branch.
+- Each branch will have various commits for reference.
+- One can toggle accordingly.
